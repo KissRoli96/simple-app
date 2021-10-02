@@ -1,0 +1,17 @@
+{
+    "name": "kissroland/simple_app",
+    "authors": [
+        {
+            "name": "KissRoli96",
+            "email": "kissrolandkristof@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\":  "./"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "5.3.x-dev"
+    }
+}
