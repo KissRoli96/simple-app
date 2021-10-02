@@ -1,4 +1,4 @@
-#Simple App
+# Simple App
 ### Setup for first
 1. Clone this repository.
 2. Run composer from project root folder.
