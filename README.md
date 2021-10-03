@@ -15,7 +15,7 @@ database based on that. Migration files are not attached.
 
 ### Folder structure
 ```
--simplae_app
+-simple_app
   -controllers //Controllers to your need
   -core //contains all core functionality
   -models //all models representing a database table
